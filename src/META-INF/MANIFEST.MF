@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: C:\Users\Marcin\OneDrive\STUDIA\SEMESTR VI\Bezpieczeństwo systemów komputerowych\bsk_mac\BSK_mac\PROJEKT BSK\KoduProdukcja\lib
+Main-Class: Main
+
